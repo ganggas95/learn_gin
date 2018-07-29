@@ -3,7 +3,7 @@ package routes
 import (
 	"github.com/gin-gonic/gin"
 	jwt "github.com/gin-gonic/contrib/jwt"
-		controllers2 "learn_gin/app/controllers"
+		controllers2 "learn_gin/controllers"
 
 )
 

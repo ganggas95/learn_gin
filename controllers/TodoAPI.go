@@ -2,9 +2,9 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"learn_gin/app/models"
+	"learn_gin/models"
 	"net/http"
-	"learn_gin/app/db"
+	"learn_gin/db"
 	)
 
 func AddTodo(c *gin.Context){

@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/gin-gonic/gin"
-	"learn_gin/app/models"
-	"learn_gin/app/db"
+	"learn_gin/models"
+	"learn_gin/db"
 	"net/http"
 )
 

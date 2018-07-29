@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"learn_gin/app/models"
+	"learn_gin/models"
 )
 
 func VerifHandler(c *gin.Context){

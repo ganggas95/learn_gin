@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"learn_gin/app/routes"
-	"learn_gin/app/db"
+	"learn_gin/routes"
+	"learn_gin/db"
 		"github.com/go-xorm/xorm"
 	"github.com/gin-contrib/cors"
 	"time"

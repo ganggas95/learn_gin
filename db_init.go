@@ -1,8 +1,8 @@
 package main
 
 import (
-	"learn_gin/app/db"
-	"learn_gin/app/models"
+	"learn_gin/db"
+	"learn_gin/models"
 )
 
 func main(){
